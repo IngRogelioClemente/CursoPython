@@ -1,12 +1,14 @@
-# Curso básico de Python
+# Curso básico de Python 
+**Semana 1**
+Práctica de Python, Git y GitHub
 
 Parte del programa de Inovaccion Virtual impartido por Microsoft.
 Curso introductorio del uso de Python, Git y GitHub.
 
 **Uusario Autor**
-Rogelio Clemente Balderas
-ceinnova11442@innovaccion.mx
-Estudiante de Ingeniería en Mecatrónica
+- Rogelio Clemente Balderas
+- ceinnova11442@innovaccion.mx
+- Estudiante de Ingeniería en Mecatrónica
 
 **Requisitos**
 - Editor de téxto
