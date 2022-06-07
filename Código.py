@@ -13,3 +13,5 @@ def operacion(num_user, num_random):
     
 resultado_final = operacion(num, rand)
 print("Su número", num, "multplicado por el numero aleatorio", rand, "da como resultado:", resultado_final)
+
+input() #Línea que permite probar correctamente la aplicacion de consola.
